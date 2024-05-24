@@ -14,10 +14,10 @@
 
 2. 测试运行
 
-    `npm start`
+    `npm run start`
 
 3. 编译
 
-    `npm build`
+    `npm run build`
 
 预览地址：https://python.docs.xxyyss.com/
